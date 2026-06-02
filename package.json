@@ -1,0 +1,32 @@
+{
+  "name": "return-guardian",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Local-first, privacy-friendly purchase memory for receipts, returns, and warranties.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "return-guardian",
+    "local-first",
+    "privacy-first",
+    "receipts",
+    "warranty-tracker",
+    "returns",
+    "purchase-tracker",
+    "pwa-ready",
+    "indexeddb",
+    "react",
+    "typescript",
+    "vite",
+    "offline-first",
+    "personal-data",
+    "productivity"
+  ],
+  "license": "MIT"
+}
