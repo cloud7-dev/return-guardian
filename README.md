@@ -1,5 +1,9 @@
 # Return Guardian
 
+> **Consolidated into [Return & Warranty Guardian](https://github.com/cloud7-dev/return-warranty-guardian).**
+>
+> This repository is kept as a historical MVP/design branch. Active development, multilingual UI, CSV export, warranty evidence packs, and V2 home/service-history features now live in `cloud7-dev/return-warranty-guardian`.
+
 Never miss a return window or warranty again.
 
 Local-first, privacy-friendly purchase memory for receipts, returns, and warranties. Return Guardian helps you manually record purchases, attach receipt images or PDFs, and see return and warranty deadlines before they cost you money. The MVP runs as a local web app and keeps purchase information and receipt files on the user's device.
